@@ -5,7 +5,7 @@
   "description": "React Starter Template for Typescript",
   "author": "Roman",
   "email": "roman.my.workspace@gmail.com",
-  "url": "https://github.com/roman-myspace/react-typescript-starter-template",
+  "url": "https://github.com/roman-myspace/react-ts-starter-template",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
